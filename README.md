@@ -69,8 +69,12 @@ View the complete Python source code:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/dh-2006/oop_Wrapper.git
-   cd oop_Wrapper
+  ## 🚀 Installation & Usage
+
+1. **Clone the repository:**
+   ```bash
+   git clone [https://github.com/dh-2006/Analyzer.git](https://github.com/dh-2006/Analyzer.git)
+   cd Analyzer
    ```
 
 2. **Install required dependencies:**
