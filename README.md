@@ -71,7 +71,7 @@ View the complete Python source code:
 ```bash
 git clone https://github.com/dh-2006/Analyzer.git
 cd Analyzer
-
+```
 2. **Install required dependencies:**
    ```bash
    pip install numpy
