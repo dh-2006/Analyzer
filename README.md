@@ -39,7 +39,7 @@ This project highlights several key Python OOP concepts:
 
 See the actual program output:
 
-[![View Output](https://img.shields.io/badge/👀_View_Output-red?style=for-the-badge)](https://github.com/dh-2006/oop_Wrapper/blob/main/output.png)
+[![View Output](https://img.shields.io/badge/👀_View_Output-red?style=for-the-badge)](https://github.com/dh-2006/Analyzer/blob/main/output.png)
 
 ---
 
