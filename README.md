@@ -65,17 +65,12 @@ View the complete Python source code:
 - **Python 3.x**
 - **NumPy library**
 
-### Installation Steps
+## 🚀 Installation & Usage
 
-1. **Clone the repository:**
-   ```bash
-  ## 🚀 Installation & Usage
-
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/dh-2006/Analyzer.git
+### 1. Clone the repository
+```bash
+git clone https://github.com/dh-2006/Analyzer.git
 cd Analyzer
-   ```
 
 2. **Install required dependencies:**
    ```bash
